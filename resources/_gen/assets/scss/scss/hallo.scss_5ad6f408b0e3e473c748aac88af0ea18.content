@@ -1,7 +1,6 @@
 html,
 body {
   color: #fff;
-  margin: 1rem;
   padding: 0; }
 
 html {
@@ -30,7 +29,7 @@ h2 {
 
 p {
   font-size: 1.3rem;
-  max-width: 800px; }
+  max-width: 700px; }
 
 img.portrait {
   border-radius: 50%;
@@ -43,8 +42,7 @@ img.portrait {
   flex: 1; }
 
 main {
-  display: flex;
-  margin-top: 20vh; }
+  display: flex; }
   main .column.left {
     text-align: end; }
   main .column.right h1 {
@@ -72,7 +70,7 @@ main {
 
 footer {
   display: flex;
-  margin-top: 3rem;
+  margin-top: 1rem;
   font-size: 0.75rem; }
   @media screen and (max-width: 980px) {
     footer {
