@@ -1,0 +1,42 @@
+baseURL = "https://sy.tabares.me/"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "Hello"
+theme = "hallo"
+
+[Author]
+    name = "Sebastian Y. Tabares Amaya"
+
+[params]
+
+    [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "E-mail"
+        url = "mailto:sy@tabares.me"
+
+    [[params.links]]
+        icon = "github"
+        title = "GitHub"
+        url = "https://github.com/sytabaresa"
+
+    [[params.links]]
+        icon = "linkedin"
+        title = "LinkedIn"
+        url = "https://linkedin.com/sytabares"
+
+    [[params.links]]
+        icon = "facebook"
+        title = "Facebook"
+        url = "https://f.me/sytabaresa"
+
+    [[params.links]]
+        icon = "twitter"
+        title = "Twitter"
+        url = "https://twitter.com/sytabares"
+
+    [[params.links]]
+        icon = "instagram"
+        title = "Instagram"
+        url = "https://instagram.com/sytabares"
+      
